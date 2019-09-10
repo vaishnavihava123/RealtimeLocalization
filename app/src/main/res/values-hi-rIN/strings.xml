@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">वास्तविक समय स्थानीयकरण</string>
+    <string name="BACK">वापस</string>
+    <string name="CHANGELANGUAGE">भाषा बदलो</string>
+    <string name="NAME">" नाम"</string>
+    <string name="PASSWORD">पारण शब्द</string>
+    <string name="SUBMIT">" जमा करें"</string>
+</resources>

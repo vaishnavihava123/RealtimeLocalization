@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Realtime Localization</string>
+    <string name="NAME">Name</string>
+    <string name="PASSWORD">Password</string>
+    <string name="SUBMIT">Submit</string>
+    <string name="BACK">Back</string>
+    <string name="CHANGELANGUAGE">Change Language</string>
+</resources>
